@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-rest-query-language:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring-rest-query-language</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring-rest-query-language.war">
+      <element id="artifact" artifact-name="spring-rest-query-language:war exploded" />
+    </root>
+  </artifact>
+</component>

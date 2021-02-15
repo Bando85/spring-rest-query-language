@@ -1,0 +1,26 @@
+*.class
+
+#folders#
+/target
+/neoDb*
+/data
+/src/main/webapp/WEB-INF/classes
+*/META-INF/*
+
+# Packaged files #
+*.jar
+*.war
+*.ear
+
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/.idea/usage.statistics.xml
+/.idea/tasks.xml
+*.iml
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
